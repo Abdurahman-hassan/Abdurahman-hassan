@@ -11,6 +11,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Repository’s ](https://github.com/Abdurahman-hassan?tab=repositories)**.
   
+<br>
 
 ## 🚀 Languages and Tools:
 
@@ -30,7 +31,9 @@
   <a href="https://github.com/Abdurahman-hassan/github-readme-stats"><img alt="Abdurahman hassan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurahman-hassan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
   <br/>
+  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
 <br/>
 
 ## 📊 My Github Stats:
