@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🌱 I’m currently learning **Advanced mobile development topics.**
+- 🌱 I’m currently learning **Advanced Python Development topics.**
 
 - ✒️ I'm currently studying computer science.
 
