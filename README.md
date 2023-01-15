@@ -28,7 +28,7 @@
     <a href="https://g.dev/abdelrahman-hassan" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="androidstudio" width="50" height="50"/> </a> 
 
 </p>
-  <a href="https://github.com/Abdurahman-hassan/github-readme-stats"><img alt="Abdurahman hassan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurahman-hassan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Abdurahman-hassan/github-readme-stats"><img alt="Abdurahman hassan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurahman-hassan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true" /></a>
   
   <br/>
   
@@ -39,15 +39,15 @@
 ## 📊 My Github Stats:
 
   <br/>
-    <a href="https://github.com/Abdurahman-hassan/github-readme-stats"><img alt="Abdurahman hassan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abdurahman-hassan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
+    <a href="https://github.com/Abdurahman-hassan/github-readme-stats"><img alt="Abdurahman hassan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abdurahman-hassan&show_icons=true&count_private=true&theme=react&hide_border=true" /></a>
+  <br/>
 <a href="https://github.com/Abdurahman-hassan/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdurahman hassan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdurahman-hassan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 
 
-<a href="https://github.com/Abdurahman-hassan/github-readme-activity-graph"><img alt="Abdurahman-hassan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abdurahman-hassan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+<!-- <a href="https://github.com/Abdurahman-hassan/github-readme-activity-graph"><img alt="Abdurahman-hassan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abdurahman-hassan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+ -->
 
 ## 🔗 Connect with me:
 <p align="left">
