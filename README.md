@@ -3,9 +3,9 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🌱 I’m currently learning **Advanced Python Development topics.**
+- 🌱 I’m currently learning **Backend development using Django framework.**
 
-- ✒️ I'm currently studying computer science.
+- ✒️ I'm currently a master degree computer science student
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
 
