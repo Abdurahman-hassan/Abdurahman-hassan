@@ -44,26 +44,31 @@
 <a href="https://g.dev/abdelrahman-hassan" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="androidstudio" width="50" height="50"/> </a> 
 
 </p>
-  <a href="https://github.com/Abdurahman-hassan/github-readme-stats"><img alt="Abdurahman hassan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurahman-hassan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true" /></a>
-  
-  <br/>
-  
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<img width="36%" alt="Abdurahman hassan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurahman-hassan&langs_count=8&count_private=true&layout=compact&langs_count=16&theme=tokyonight" /></a>  
+<br/>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
 <br/>
 
+![Snake animation](https://github.com/Abdurahman-hassan/Abdurahman-hassan/blob/output/github-contribution-grid-snake.svg)
+
+##
+
 ## 📊 My Github Stats:
 
-  <br/>
-    <a href="https://github.com/Abdurahman-hassan/github-readme-stats"><img alt="Abdurahman hassan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abdurahman-hassan&show_icons=true&count_private=true&theme=react&hide_border=true" /></a>
-  <br/>
-<a href="https://github.com/Abdurahman-hassan/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdurahman hassan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdurahman-hassan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+<div>
+<a href="https://github.com/Abdurahman-hassan/">
+<img width="49%" 
+src="https://github-readme-stats-grazifalk.vercel.app/api?username=Abdurahman-hassan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img width="49%" 
+src="https://github-readme-streak-stats.herokuapp.com/?user=Abdurahman-hassan&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=tokyonight"/>
+</div>
 
-
-<!-- <a href="https://github.com/Abdurahman-hassan/github-readme-activity-graph"><img alt="Abdurahman-hassan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abdurahman-hassan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
- -->
+<div>
+<a href="https://github.com/Abdurahman-hassan/">
+<img width="61%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdurahman-hassan&theme=tokyonight"/>
+</div>
 
 ## 🔗 Connect with me:
 <p align="left">
