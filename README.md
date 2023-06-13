@@ -15,8 +15,6 @@
 
 ## 🚀 Languages and Tools:
 
-
-
 <p align="left"> 
 <a href="https://www.java.com" target="_blank"> <img src="https://abdelrahman-greencoder-files.s3.eu-central-1.amazonaws.com/icons8-java.gif" alt="java" width="50" height="50"/> </a><a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="50" height="50"/> 
 </a> 
@@ -44,9 +42,14 @@
 <a href="https://g.dev/abdelrahman-hassan" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="androidstudio" width="50" height="50"/> </a> 
 
 </p>
-<img width="36%" alt="Abdurahman hassan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurahman-hassan&langs_count=8&count_private=true&layout=compact&langs_count=16&theme=tokyonight" /></a>  
-<br/>
 
+##
+<img width="36%" alt="Abdurahman hassan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurahman-hassan&langs_count=8&count_private=true&layout=compact&langs_count=16&theme=tokyonight" /></a>  
+
+##
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdurahman-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="Abdurahman-hassan" /> </p>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=567BBC&height=80&section=footer"/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
 <br/>
@@ -60,14 +63,14 @@
 <div>
 <a href="https://github.com/Abdurahman-hassan/">
 <img width="49%" 
-src="https://github-readme-stats-grazifalk.vercel.app/api?username=Abdurahman-hassan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+src="https://github-readme-stats-grazifalk.vercel.app/api?username=Abdurahman-hassan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Abdurahman-hassan"/>
 <img width="49%" 
-src="https://github-readme-streak-stats.herokuapp.com/?user=Abdurahman-hassan&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=tokyonight"/>
+src="https://github-readme-streak-stats.herokuapp.com/?user=Abdurahman-hassan&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=tokyonight" alt"Abdurahman-hassan"/>
 </div>
 
 <div>
 <a href="https://github.com/Abdurahman-hassan/">
-<img width="61%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdurahman-hassan&theme=tokyonight"/>
+<img width="61%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdurahman-hassan&theme=tokyonight" alt="Abdurahman-hassan"/>
 </div>
   
 ![Status](./profile-3d-contrib/profile-night-green.svg)
