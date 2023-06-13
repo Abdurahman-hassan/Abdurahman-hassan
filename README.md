@@ -15,16 +15,33 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://abdelrahman-greencoder-files.s3.eu-central-1.amazonaws.com/icons8-java.gif" alt="java" width="50" height="50"/> </a><a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="kotlin" width="50" height="50"/> </a> <a href="https://www.android.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/android-os.png" alt="android" width="50" height="50"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase" width="50" height="50"/> </a> <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://abdelrahman-greencoder-files.s3.eu-central-1.amazonaws.com/SQLite.png" alt="sqlite" width="60" height="50"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://abdelrahman-greencoder-files.s3.eu-central-1.amazonaws.com/postman.png" alt="postman" width="50" height="50"/> </a> 
-    <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++" width="50" height="47"/> </a><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://abdelrahman-greencoder-files.s3.eu-central-1.amazonaws.com/c.png" alt="c" width="37" height="45"/> </a>
-        <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="50" height="50"/> </a> 
-    <a href="https://graphql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="graphQL" width="50" height="50"/> </a>
-    <a href="https://restfulapi.net/" target="_blank"> <img src="https://blog.restcase.com/content/images/2016/10/icon-gears-blue-big.png" alt="restful" width="50" height="50"/> </a>
-        <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="50" height="50"/> </a> 
-        <a  href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/github.png" alt="github" width="50" height="50"/> </a> 
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="visualStudio" width="50" height="50"/> </a> 
-    <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/intellij-idea.png" alt="intelliJ" width="50" height="50"/> </a> 
-    <a href="https://g.dev/abdelrahman-hassan" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="androidstudio" width="50" height="50"/> </a> 
+
+
+<p align="left"> 
+<a href="https://www.java.com" target="_blank"> <img src="https://abdelrahman-greencoder-files.s3.eu-central-1.amazonaws.com/icons8-java.gif" alt="java" width="50" height="50"/> </a><a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="50" height="50"/> 
+</a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="kotlin" width="50" height="50"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a  href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/github.png" alt="github" width="50" height="50"/> </a>
+<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+</p>
+<p align="left"> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
+<a href="https://restfulapi.net/" target="_blank"> <img src="https://blog.restcase.com/content/images/2016/10/icon-gears-blue-big.png" alt="restful" width="50" height="50"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="visualStudio" width="50" height="50"/> </a>
+<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/intellij-idea.png" alt="intelliJ" width="50" height="50"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://www.android.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/android-os.png" alt="android" width="50" height="50"/> </a>
+<a href="https://g.dev/abdelrahman-hassan" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="androidstudio" width="50" height="50"/> </a> 
 
 </p>
   <a href="https://github.com/Abdurahman-hassan/github-readme-stats"><img alt="Abdurahman hassan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurahman-hassan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true" /></a>
