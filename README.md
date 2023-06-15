@@ -63,7 +63,7 @@
 <div>
 <a href="https://github.com/Abdurahman-hassan/">
 <img width="49%" 
-src="https://github-readme-stats-grazifalk.vercel.app/api?username=Abdurahman-hassan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Abdurahman-hassan"/>
+src="https://github-readme-stats-grazifalk.vercel.app/api?username=Abdurahman-hassan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Abdurahman-hassan"/>
 <img width="49%" 
 src="https://github-readme-streak-stats.herokuapp.com/?user=Abdurahman-hassan&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=tokyonight" alt"Abdurahman-hassan"/>
 </div>
