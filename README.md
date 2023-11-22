@@ -55,7 +55,7 @@
   
 <br/>
 
-![Snake animation](https://github.com/Abdurahman-hassan/Abdurahman-hassan/blob/output/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
+![Snake animation](https://github.com/Abdurahman-hassan/Abdurahman-hassan/blob/output/github-snake-dark.svg?palette=github-dark?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
 
 ##
 
