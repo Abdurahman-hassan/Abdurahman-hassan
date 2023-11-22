@@ -45,7 +45,7 @@
 
 ##
 <img width="36%" alt="Abdurahman hassan's Top Languages" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurahman-hassan&count_private=true&layout=compact&langs_count=40&theme=tokyonight" />  
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurahman-hassan&count_private=true&layout=compact&langs_count=25&theme=tokyonight"/>  
 
 ##
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdurahman-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="Abdurahman-hassan" /> </p>
