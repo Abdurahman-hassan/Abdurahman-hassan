@@ -55,7 +55,7 @@
   
 <br/>
 
-![Snake animation](https://github.com/Abdurahman-hassan/Abdurahman-hassan/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![Snake animation](https://github.com/Abdurahman-hassan/Abdurahman-hassan/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=blue)
 
 ##
 
