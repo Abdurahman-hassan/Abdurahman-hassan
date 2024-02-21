@@ -20,14 +20,11 @@
 </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="kotlin" width="50" height="50"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a  href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/github.png" alt="github" width="50" height="50"/> </a>
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 <p align="left"> 
@@ -37,7 +34,8 @@
 <a href="https://restfulapi.net/" target="_blank"> <img src="https://blog.restcase.com/content/images/2016/10/icon-gears-blue-big.png" alt="restful" width="50" height="50"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="visualStudio" width="50" height="50"/> </a>
-<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/intellij-idea.png" alt="intelliJ" width="50" height="50"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/intellij-idea.png" alt="intelliJ" width="50" height="50"/> </a
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/pycharm.png" alt="pycharm" width="50" height="50"/> </a> 
 <a href="https://www.android.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/android-os.png" alt="android" width="50" height="50"/> </a>
 <a href="https://g.dev/abdelrahman-hassan" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="androidstudio" width="50" height="50"/> </a> 
 
