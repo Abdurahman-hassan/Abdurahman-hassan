@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🌱 I’m currently learning **Backend development using Django framework.**
+- 🌱 I’m enhancing my Backend development skills using the Django framework and practicing Frontend development to become a Full Stack Developer.
 
 - ✒️ I'm currently a master degree computer science student
 
@@ -11,6 +11,14 @@
 
 - 👨‍💻 All of my projects are available at **[My Repository’s ](https://github.com/Abdurahman-hassan?tab=repositories)**.
   
+## 💻 Technologies I'm Mastering:
+
+🔧 I seek to master Next.js beside React, and Express.js and NestJS with Node.js beside Django.
+
+## 🌟 Future Goals:
+
+🚀 I hope to learn Go with Gen.
+
 <br>
 
 ## 🚀 Languages and Tools:
