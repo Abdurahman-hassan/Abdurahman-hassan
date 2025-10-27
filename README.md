@@ -19,45 +19,82 @@
 
 
   
-## 💻 Technologies I'm Mastering:
+## 💻 Technologies I'm Mastering
 
-🔧 I seek to master Next.js beside React, and Express.js and NestJS with Node.js beside Django.
+🛠️ Advancing my expertise in **DevOps and Cloud Engineering**, focusing on:
+- AWS & Google Cloud
+- Kubernetes & Docker
+- CI/CD automation (Jenkins, GitHub Actions)
+- Infrastructure as Code (Terraform)
+- Monitoring & Logging (Prometheus, Grafana, ELK)
 
+## 🌟 Future Goals
 
-
-## 🌟 Future Goals:
-
-🚀 I hope to learn Go with Gen.
-
+🚀 Expand my distributed systems and cloud-native skills by learning:
+- **Go (Golang)** and backend frameworks like **Gin**
+- Advanced Kubernetes orchestration & scaling strategies
+- High-performance messaging and event-driven architectures
 <br>
 
-## 🚀 Languages and Tools:
+## 🚀 Languages & Tools
 
-<p align="left"> 
-<a href="https://www.java.com" target="_blank"> <img src="https://abdelrahman-greencoder-files.s3.eu-central-1.amazonaws.com/icons8-java.gif" alt="java" width="50" height="50"/> </a><a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="50" height="50"/> 
-</a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a  href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/github.png" alt="github" width="50" height="50"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<!-- Programming Languages -->
+### 🧠 Programming Languages
+<p align="left">
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
 </p>
-<p align="left"> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-<a href="https://restfulapi.net/" target="_blank"> <img src="https://blog.restcase.com/content/images/2016/10/icon-gears-blue-big.png" alt="restful" width="50" height="50"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="visualStudio" width="50" height="50"/> </a>
-<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/intellij-idea.png" alt="intelliJ" width="50" height="50"/> </a
-<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/pycharm.png" alt="pycharm" width="50" height="50"/> </a> 
-<a href="https://www.android.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/android-os.png" alt="android" width="50" height="50"/> </a>
-<a href="https://g.dev/abdelrahman-hassan" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="androidstudio" width="50" height="50"/> </a> 
 
+### ⚙️ Backend Frameworks & Tools
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="45" height="45"/>
+  <img src="https://img.icons8.com/color/48/celery.png" alt="Celery" width="45" height="45"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="45" height="45"/>
+  <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="45" height="45"/>
 </p>
+
+### 🗄️ Databases & Caching
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="45" height="45"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/google-cloud.png" alt="GCP" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="Jenkins" width="70" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+</p>
+
+### 🔄 Cloud Messaging, Event-Driven & Distributed Systems
+<p align="left">
+  <!-- Amazon S3 -->
+  <img src="https://img.icons8.com/color/48/amazon-s3.png" alt="Amazon S3" width="50" height="50"/>
+  <!-- API GateWay -->
+  <img src="https://img.icons8.com/color/48/api-settings.png" alt="API Gateway" width="50" height="50"/>
+  <!-- Amazon SQS -->
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS SQS" width="50" height="50"/>
+  <!-- E2E Testing -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" alt="End-to-End Testing" width="50" height="50"/>
+</p>
+
+### 💡 Tools & IDEs
+<p align="left">
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/pycharm.png" alt="PyCharm" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/50/intellij-idea.png" alt="IntelliJ IDEA" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+</p>
+
 
 ##
 <img width="36%" alt="Abdurahman hassan's Top Languages" 
