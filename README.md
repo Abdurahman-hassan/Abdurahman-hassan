@@ -3,13 +3,20 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🌱 I’m enhancing my Backend development skills using the Django framework and practicing Frontend development to become a Full Stack Developer.
+- 👨‍💻 Senior Backend Engineer specialized in **Python, Django, FastAPI, Flask, Celery, and PostgreSQL**, passionate about building scalable, high-performance distributed systems.
 
-- ✒️ I'm currently a master degree computer science student
+- 🚀 Currently working on large-scale **energy-tech trading systems**, focusing on backend architecture, task orchestration, and system optimization.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**.
+- 📚 Completing my **Postgraduate Diploma in Computer Science** at Cairo University, continuously advancing my backend and DevOps expertise.
 
-- 👨‍💻 All of my projects are available at **[My Repository’s ](https://github.com/Abdurahman-hassan?tab=repositories)**.
+- 👥 Experienced mentor & trainer — supported and trained **250+ developers** through professional workshops and technical mentorship programs.
+
+- 🤝 Open-source contributor with an entrepreneurial mindset — leading and supporting backend-focused solutions and impactful projects.
+
+- 🌍 Interested in advanced system design, automation, data-driven architectures, and cloud technologies.
+
+- 🔗 Explore my work on GitHub: **[My Repositories](https://github.com/Abdurahman-hassan?tab=repositories)**
+
 
   
 ## 💻 Technologies I'm Mastering:
